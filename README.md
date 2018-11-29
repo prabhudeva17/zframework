@@ -31,7 +31,7 @@ link for the course: https://www.udemy.com/learn-python-and-ethical-hacking-from
 * Packaging to Executable - *Pyinstaller*
 
 
-#### Full Description of the code are available in sample_files folder 
+#### Full Description of the code are available in "sample_files" folder 
 #### Some Instuction are embedded inside the code as Comments review the code.
 #### Run the python scripts with -h option for help 
 *python network_scanner.py -h* 
