@@ -1,6 +1,7 @@
 # zframework
 ## Credits to Zaid at Zsecurity.org 
-## For his Excellent course on Learn Python & Ethical Hacking From Scratch 
+## For his Excellent course on Learn Python & Ethical Hacking From Scratch from their only i learned this concept and started doing the scripts based on the course 
+## I built this script not to showcast, this whole concept belongs to the course instructor, these scripts is useful for future reference, so i coded what i learned from these course.
 
 link for the course: https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/
 
